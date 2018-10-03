@@ -1,9 +1,11 @@
-h1{
-    font-weight: normal;
+#header p{
+    text=transform: capitalize;
 }
-p{
-    font-weight: 500;
-    font-family:'arial';
 
-    
+body{
+    text-transform: uppercase;
+}
+body > p{
+    text-transform: none;
+
 }
