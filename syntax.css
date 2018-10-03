@@ -1,12 +1,18 @@
-.block{
-    padding: 10px;
-    margin: 10px;
-    border: 1px solid #000;
+#main-content div{
+    background-color: gray;
+    margin: 0 0 20px 0;
+}
+.static-width{
+    width: 300px;
+    height: 100px;
+    color: red;
+}
+.percentage-width{
+    width: 70%;
+    height: 50px;
 }
 
-.inline{
-    padding: 10px;
-    margin 10px;
-    border: 1px solid #000;
+.inline-block{
+    width: 40%;
     display: inline-block;
 }
