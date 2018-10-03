@@ -1,0 +1,6 @@
+p{
+    color: red !important;
+}
+#main-content p{
+    color: green;
+}
