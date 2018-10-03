@@ -1,9 +1,4 @@
-span[class='deck']{
-    color: purple;
-}
-div[id]{
-    background: grey;
-}
-a[href^=http]{
-    color: green;
+a:hover{
+    color: red;
+
 }
