@@ -1,8 +1,7 @@
 .static-width{
     width: 300px;
     height: 100px;
-    background-color: red;
-    background-image: url(http://gallifreybase.com/forum/images/smilies/doc01.png);
-    background-repeat: no-repeat;
-    background-position: 40% 30%;
+    background: url(http://gallifreybase.com/forum/images/smilies/doc01.png) no-repeat top center;
+    background-color: grey;
+    background-size: 200px;
 }
