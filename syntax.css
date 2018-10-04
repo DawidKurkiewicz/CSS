@@ -1,9 +1,5 @@
 #banner{
-    background-color: grey;
     width: 100%;
     height: 300px;
-    background-image: url(http://gallifreybase.com/forum/images/smilies/doc01.png), url(http://filmaster.com/media/cache/a7/50/a75046183818e5cde4fad4f9fdcccc7e.jpg);
-    background-repeat: no-repeat;
-    background-position: center, top left;
-    background-size: 300px, 100%;
+    background-color: rgb(250, 150, 60);
 }
